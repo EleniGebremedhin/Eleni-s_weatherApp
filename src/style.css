@@ -56,13 +56,13 @@ main {
   display: flex;
 }
 .weather-app-icon {
-  font-size: 44px;
-  margin-top: 22px;
+  width: 100px;
+  height: 88px;
 }
 .weather-app-temprature {
   font-size: 80px;
+  line-height: 88px;
   font-weight: bold;
-  margin-left: 20px;
 }
 .weather-app-unit {
   font-size: 40px;
